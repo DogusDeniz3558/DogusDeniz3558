@@ -1,4 +1,4 @@
- ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9w-bmI-g-24igyAvZbkYRcgAvxgdhTUyEKWCt7M75f4kqXH_uZHUQH_dCNjDtgmjBF8&usqp=CAU)
+ ![MasterHead](https://i.pinimg.com/564x/e9/14/46/e91446bc420d3089463c4095d47ea0ab.jpg)
 <h1 align="center">Hi 👋, I'm Doğuş Deniz</h1>
 <h3 align="center">A passionate WEB developer from Turkey</h3>
 
